@@ -10,3 +10,5 @@ this is my addin
 
 this is addin 2
 >>>>>>> master
+
+another added
